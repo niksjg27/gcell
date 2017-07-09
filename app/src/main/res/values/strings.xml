@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gcell</string>
+    <string-array name="dept_array">
+        <item>SELECT</item>
+        <item>COMPUTER</item>
+        <item>MECHANICAL</item>
+        <item>ENTC</item>
+        <item>IT</item>
+        <item>CIVIL</item>
+        <item>WOMENS</item>
+        <item>MANAGEMENT</item>
+
+    </string-array>
+
+    <string-array name="comp1">
+        <item>Printer Issue</item>
+        <item>Assignment Issue</item>
+
+    </string-array>
+</resources>
